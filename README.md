@@ -65,7 +65,7 @@ If you find our work useful, please consider citing our paper:
 ```bibtex
 @article{denoiserotator,
   title={DenoiseRotator: Enhance Pruning Robustness for LLMs via Importance Concentration},
-  author={},
+  author={Tianteng Gu and Bei Liu and Bo Xiao and Ke Zeng and Jiacheng Liu and Yanmin Qian},
   year={2025},
   journal={}
 }
