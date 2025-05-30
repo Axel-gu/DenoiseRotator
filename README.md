@@ -63,11 +63,14 @@ If you wish to prune other models, please create corresponding scripts named `xx
 If you find our work useful, please consider citing our paper:
 
 ```bibtex
-@article{denoiserotator,
-  title={DenoiseRotator: Enhance Pruning Robustness for LLMs via Importance Concentration},
-  author={Tianteng Gu and Bei Liu and Bo Xiao and Ke Zeng and Jiacheng Liu and Yanmin Qian},
-  year={2025},
-  journal={}
+@misc{gu2025denoiserotatorenhancepruningrobustness,
+      title={DenoiseRotator: Enhance Pruning Robustness for LLMs via Importance Concentration}, 
+      author={Tianteng Gu and Bei Liu and Bo Xiao and Ke Zeng and Jiacheng Liu and Yanmin Qian},
+      year={2025},
+      eprint={2505.23049},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.23049}, 
 }
 ```
 
