@@ -1,6 +1,6 @@
 # DenoiseRotator
 
-This repository contains the code associated with the paper "DenoiseRotator: Enhance Pruning Robustness for LLMs via Importance Concentration".
+This repository contains the code associated with the paper [DenoiseRotator: Enhance Pruning Robustness for LLMs via Importance Concentration](https://www.arxiv.org/abs/2505.23049).
 
 ## Dependencies
 
